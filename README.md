@@ -1,10 +1,12 @@
 ### Hi Welcome to ssg423 👋
 
-Gachon university 1st grade
+🌱Gachon university 1st grade
 
-Major: AI/Software
+🤔Major: AI/Software
 
-Club: Soccer
+⚡Club: Soccer
+
+📫Instagram: sgg_423
 
 <!--
 **sgg423/sgg423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
